@@ -1,0 +1,46 @@
+<resources>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">1HNWqQVLklhsPkun1YCf1lbPzHPugTLyxvq20xrN</string>
+    <string name="back4app_client_key">CRqeUlkVR18HyZVE2GUfWNiJYu6S7Dmsf6heYJOL</string>
+
+    <!--<string name="back4app_app_id">vhi0SEEpN8DXFk8r99RW4YmqLaZ8JJkBaIjJjONG</string>-->
+    <!--<string name="back4app_client_key">D0lPNgTJluKTY127bCa8t9cOdufBZJRozb3FLUYl</string>-->
+    <string name="firebase_sender_id">918727737244</string>
+    <string name="back4app_api_url">https://parseapi.back4app.com/</string>
+
+    <string name="app_name">AWorkAdmin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="abuse_choose">Please choose one of abuse types</string>
+    <string name="abuse1">Not compliant with our Terms of Use</string>
+    <string name="abuse2">Racism, Xenophobia, Social Exclusion</string>
+    <string name="abuse3">Violence</string>
+    <string name="abuse4">Apology of Terrorism</string>
+    <string name="abuse5">Copyrights complaint</string>
+    <string name="abuse6">Human rights</string>
+    <string name="abuse7">National security</string>
+    <string name="abuse8">Sexual content</string>
+    <string name="abuse9">Children abuse</string>
+
+</resources>
